@@ -1,16 +1,67 @@
-# React + Vite
+# Sri Sahithi Nagulavancha | Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive developer portfolio built with React, Tailwind CSS, and Framer Motion.  
+This portfolio showcases my frontend projects, MERN stack learning journey, Java backend development practice, skills, internships, and contact details.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 https://srisahithinagulavancha.github.io/full-stack-developer-portfolio/"
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive portfolio design
+- Dark and light theme toggle
+- Animated sections using Framer Motion
+- Project showcase with live demo and GitHub links
+- Skills grouped by frontend, MERN stack, Java backend, tools, and software engineering
+- Smooth navigation
+- Contact section with email, GitHub, and LinkedIn links
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Vite
+- Tailwind CSS
+- Framer Motion
+- Lucide React
+- React Icons
+
+## 📌 Sections
+
+- Hero
+- About
+- Skills
+- Learning Journey
+- Projects
+- Contact
+
+## 📂 Projects Highlighted
+
+- Atmos Weather Dashboard
+- Furniture E-Commerce Platform
+- Daily Life Noter
+- AI Productivity Workspace
+- Job Board Application
+- Task Manager REST API
+- Hotel Booking UI
+- Personal Portfolio Website
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/SriSahithiN/full-stack-developer-portfolio.git
+cd full-stack-developer-portfolio
+npm install
+npm run dev
+
+
+👩‍💻 Author
+
+Sri Sahithi Nagulavancha
+
+GitHub: https://github.com/SriSahithiN
+LinkedIn: https://www.linkedin.com/in/srisahithi-nagulavancha/
+Email: nsahithi2000@gmail.com
+📄 License
+
+This project is open source and available under the MIT License.
